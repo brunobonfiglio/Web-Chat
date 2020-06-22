@@ -1,5 +1,5 @@
 # Web-Chat
-Quero compartilhar um pequeno WebChat. Ele é muito simples, mas este era o objetivo.
+Quero compartilhar um pequeno WebChat feito em PHP + Mysql. Ele é muito simples, mas este era o objetivo.
 
 
 ![](img/tela1.png)
